@@ -131,5 +131,12 @@ $("document").ready(function(){
   //   $(this).find("img:nth-child(1)").show().siblings().hide();
   // });
 
+  // news
+  $("#news .newsbox .newsimg li").eq(0).show().siblings().hide();
+  $("#news .newsbox .newstab li").click(function(){
+    $("#news .newsbox .newsimg li").eq($(this).index()).show().siblings().hide();
+    $(this).addClass("active").siblings().removeClass("active");
+  });
+
   AOS.init();
 });
