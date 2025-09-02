@@ -554,13 +554,13 @@ header .menu .utill-box .mob-menu{
   font-size: 1.8rem;
   }
   #mv h3 .animate1{
-    animation: aa2 20s ease 0s infinite normal forwards;
+    animation: aa2 10s ease 0s infinite normal forwards;
   }
   #mv h3 .animate2{
-    animation: bb2 20s ease 0s infinite normal forwards;
+    animation: bb2 10s ease 0s infinite normal forwards;
   }
   #mv h3 .animate3{
-    animation: cc2 20s ease 0s infinite normal forwards;
+    animation: cc2 10s ease 0s infinite normal forwards;
   }
 }
 
@@ -577,13 +577,13 @@ header .menu .utill-box .mob-menu{
   display: block;
   }
   #mv h3 .animate1{
-    animation: d1 20s ease 0s infinite normal forwards;
+    animation: d1 10s ease 0s infinite normal forwards;
   }
   #mv h3 .animate2{
-    animation: d2 20s ease 0s infinite normal forwards;
+    animation: d2 10s ease 0s infinite normal forwards;
   }
   #mv h3 .animate3{
-    animation: ddd 20s ease 0s infinite normal forwards;
+    animation: ddd 10s ease 0s infinite normal forwards;
   }
 }
 
@@ -1061,16 +1061,16 @@ header .menu .utill-box .mob-menu{
   font-size: 1.8rem;
   }
   #mv2 h3 .animate1{
-    animation: aa2 20s ease 0s infinite normal forwards;
+    animation: aa2 10s ease 0s infinite normal forwards;
   }
   #mv2 h3 .animate2{
-    animation: bb2 20s ease 0s infinite normal forwards;
+    animation: bb2 10s ease 0s infinite normal forwards;
   }
   #mv2 h3 .animate3{
-    animation: cc2 20s ease 0s infinite normal forwards;
+    animation: cc2 10s ease 0s infinite normal forwards;
   }
   #mv2 h3 .animate4{
-    animation: ee2 20s ease 0s infinite normal forwards;
+    animation: ee2 10s ease 0s infinite normal forwards;
   }
 }
 
@@ -1085,16 +1085,16 @@ header .menu .utill-box .mob-menu{
   display: block;
   }
   #mv2 h3 .animate1{
-    animation: aa3 20s ease 0s infinite normal forwards;
+    animation: aa3 10s ease 0s infinite normal forwards;
   }
   #mv2 h3 .animate2{
-    animation: bb3 20s ease 0s infinite normal forwards;
+    animation: bb3 10s ease 0s infinite normal forwards;
   }
   #mv2 h3 .animate3{
-    animation: cc3 20s ease 0s infinite normal forwards;
+    animation: cc3 10s ease 0s infinite normal forwards;
   }
   #mv2 h3 .animate4{
-    animation: ee3 20s ease 0s infinite normal forwards;
+    animation: ee3 10s ease 0s infinite normal forwards;
   }
 }
 
@@ -2070,10 +2070,10 @@ header .menu .utill-box .mob-menu{
   }
 
   #mv4 h3 .animate1{
-    animation: aa2 20s ease 0s infinite normal forwards;
+    animation: aa2 10s ease 0s infinite normal forwards;
   }
   #mv4 h3 .animate2{
-    animation: bb2 20s ease 0s infinite normal forwards;
+    animation: bb2 10s ease 0s infinite normal forwards;
   }
 }
 
@@ -2089,16 +2089,16 @@ header .menu .utill-box .mob-menu{
   }
 
   #mv4 h3 .animate1{
-    animation: aa3 20s ease 0s infinite normal forwards;
+    animation: aa3 10s ease 0s infinite normal forwards;
   }
   #mv4 h3 .animate11{
-    animation: bb3 20s ease 0s infinite normal forwards;
+    animation: bb3 10s ease 0s infinite normal forwards;
   }
   #mv4 h3 .animate2{
-    animation: cc3 20s ease 0s infinite normal forwards;
+    animation: cc3 10s ease 0s infinite normal forwards;
   }
   #mv4 p.animate3{
-    animation: dd 20s ease 0s infinite normal forwards;
+    animation: dd 10s ease 0s infinite normal forwards;
   }
 }
 
