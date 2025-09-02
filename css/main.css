@@ -522,16 +522,16 @@ header .menu .utill-box .mob-menu{
   margin-bottom: 77px;
 }
 #mv h3 .animate1{
-  animation: aa 20s ease 0s infinite normal forwards;
+  animation: aa 10s ease 0s infinite normal forwards;
 }
 #mv h3 .animate2{
-  animation: bb 20s ease 0s infinite normal forwards;
+  animation: bb 10s ease 0s infinite normal forwards;
 }
 #mv h3 .animate3{
-  animation: cc 20s ease 0s infinite normal forwards;
+  animation: cc 10s ease 0s infinite normal forwards;
 }
 #mv p.animate4{
-  animation: dd 20s ease 0s infinite normal forwards;
+  animation: dd 10s ease 0s infinite normal forwards;
 }
 
 #mv p{
@@ -1030,16 +1030,16 @@ header .menu .utill-box .mob-menu{
   font-weight: 100;
 }
 #mv2 h3 .animate1{
-  animation: aa 20s ease 0s infinite normal forwards;
+  animation: aa 10s ease 0s infinite normal forwards;
 }
 #mv2 h3 .animate2{
-  animation: bb 20s ease 0s infinite normal forwards;
+  animation: bb 10s ease 0s infinite normal forwards;
 }
 #mv2 h3 .animate3{
-  animation: cc 20s ease 0s infinite normal forwards;
+  animation: cc 10s ease 0s infinite normal forwards;
 }
 #mv2 h3 .animate4{
-  animation: ee 20s ease 0s infinite normal forwards;
+  animation: ee 10s ease 0s infinite normal forwards;
 }
 #mv2 p{
   width: 90%;
@@ -1723,13 +1723,13 @@ header .menu .utill-box .mob-menu{
   font-weight: 400;
 }
 #mv3 h3 .animate1{
-  animation: d1 20s ease 0s infinite normal forwards;
+  animation: d1 10s ease 0s infinite normal forwards;
 }
 #mv3 h3 .animate2{
-  animation: d2 20s ease 0s infinite normal forwards;
+  animation: d2 10s ease 0s infinite normal forwards;
 }
 #mv3 h3 .animate3{
-  animation: ddd 20s ease 0s infinite normal forwards;
+  animation: ddd 10s ease 0s infinite normal forwards;
 }
 #mv3 .br{
   display: none;
@@ -2041,10 +2041,10 @@ header .menu .utill-box .mob-menu{
   font-weight: 6  00;
 }
 #mv4 h3 .animate1{
-  animation: aa 20s ease 0s infinite normal forwards;
+  animation: aa 10s ease 0s infinite normal forwards;
 }
 #mv4 h3 .animate2{
-  animation: bb 20s ease 0s infinite normal forwards;
+  animation: bb 10s ease 0s infinite normal forwards;
 }
 #mv4 p{
   width: 90%;
@@ -2055,7 +2055,7 @@ header .menu .utill-box .mob-menu{
   line-height: 1.6;
 }
 #mv4 p.animate3{
-  animation: ddd 20s ease 0s infinite normal forwards;
+  animation: ddd 10s ease 0s infinite normal forwards;
 }
 #mv4 .br{
   display: none;
